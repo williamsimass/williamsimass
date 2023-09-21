@@ -1,6 +1,6 @@
 ##  🌵 Olá! Eu sou William Simas 🌵
 
-- 👨🏻‍💻 Estudando Python
+- 👨🏻‍💻 Estudando Flutter | Dart | node.js | mongoDB | javascript;
 - 💻 Faço faculdade de ADS - 3º Semestre
 <div align="center">
   <a href="https://github.com/williamsimass">
