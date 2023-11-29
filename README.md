@@ -1,7 +1,7 @@
 ##  🌵 Olá! Eu sou William Simas 🌵
 
-- 👨🏻‍💻 Estudando Flutter | Dart | node.js | mongoDB | javascript;
-- 💻 Faço faculdade de ADS - 3º Semestre
+- 👨🏻‍💻 Sou um Desenvolvedor Full Stack | com foco no desenvolvimento Back End tenho experiência em, Python, Mysql, SQL server, Node.js, MongoDB.
+- 💻 Faço faculdade de ADS - 4º Semestre
 <div align="center">
   <a href="https://github.com/williamsimass">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=williamsimass&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -16,6 +16,7 @@
   <img align="center" alt="william-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="william-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="william-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="william-.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
 </div>
   
 ##
