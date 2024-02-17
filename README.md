@@ -1,7 +1,7 @@
 ##  🌵 Olá! Eu sou William Simas 🌵
 
 - 👨🏻‍💻 Sou um Desenvolvedor Full Stack | com foco no desenvolvimento Back End tenho experiência em, Python, Mysql, SQL server, Node.js, MongoDB.
-- 💻 Faço faculdade de ADS - 4º Semestre
+- 💻 Faço faculdade de ADS - 5º Semestre
 <div align="center">
   <a href="https://github.com/williamsimass">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=williamsimass&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
