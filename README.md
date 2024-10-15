@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/williamsimass">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=williamsimass&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsimass&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsimass&layout=compact&show_icons=true&theme=radical"/>
 </div>
  
 <div style="text-align: center; display: flex; align-items: center;"><br>
