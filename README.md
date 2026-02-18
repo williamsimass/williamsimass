@@ -42,7 +42,8 @@ Sou desenvolvedor Full Stack especializado em **React, Next.js, TypeScript, Tail
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-### **Ferramentas & DevOps**
+### **DevOps & Ferramentas**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -58,6 +59,7 @@ Sou desenvolvedor Full Stack especializado em **React, Next.js, TypeScript, Tail
 - **TypeScript**: Tipagem forte, interfaces e manutenibilidade de código
 - **Performance**: Otimização com Vite, lazy loading, code splitting
 - **APIs RESTful**: Integração, consumo e desenvolvimento de backends robustos
+- **Docker & Containerização**: Dockerfiles, compose, deploy de aplicações containerizadas
 - **Full Stack**: Implementação completa de features do front ao back-end
 
 ---
