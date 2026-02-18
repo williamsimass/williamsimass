@@ -10,11 +10,15 @@
 
 ---
 
+</div>
+
 ## 📋 Sobre Mim
 
 Sou desenvolvedor Full Stack especializado em **React, Next.js, TypeScript, Tailwind CSS e Vite**, com foco em criar interfaces modernas e performáticas. Combinando sólida formação técnica com experiência prática, entrego soluções escaláveis e código de alta qualidade.
 
 ---
+
+<div align="center">
 
 ## 🛠️ Stack Tecnológico
 
@@ -45,6 +49,8 @@ Sou desenvolvedor Full Stack especializado em **React, Next.js, TypeScript, Tail
 
 ---
 
+</div>
+
 ## 💡 Competências Técnicas
 
 - **Front-End Moderno**: React, Next.js, componentes reutilizáveis, hooks e state management
@@ -55,6 +61,8 @@ Sou desenvolvedor Full Stack especializado em **React, Next.js, TypeScript, Tail
 - **Full Stack**: Implementação completa de features do front ao back-end
 
 ---
+
+<div align="center">
 
 ## 📊 Estatísticas GitHub
 
@@ -71,8 +79,6 @@ Busco oportunidades desafiadoras onde possa contribuir significativamente em pro
 
 ## 📞 Vamos Conectar?
 
-<div>
-
 | Plataforma | Link |
 |-----------|------|
 | **LinkedIn** | [williamsimas](https://linkedin.com/in/williamsimas) |
@@ -81,11 +87,9 @@ Busco oportunidades desafiadoras onde possa contribuir significativamente em pro
 | **Twitch** | [@willostrange](https://www.twitch.tv/willostrange) |
 | **Discord** | uwillos#2961 |
 
-</div>
-
 ---
 
-<p align="center">
+<p>
   <i>Desenvolvendo soluções, criando impacto 🚀</i>
 </p>
 
