@@ -83,9 +83,8 @@ Busco oportunidades desafiadoras onde possa contribuir significativamente em pro
 |-----------|------|
 | **LinkedIn** | [williamsimas](https://linkedin.com/in/williamsimas) |
 | **Email** | [willsimassousa@gmail.com](mailto:willsimassousa@gmail.com) |
-| **Instagram** | [@william.mss16](https://instagram.com/william.mss16) |
-| **Twitch** | [@willostrange](https://www.twitch.tv/willostrange) |
-| **Discord** | uwillos#2961 |
+| **Instagram** | [@williamsimas__](https://instagram.com/william.mss16) |
+| **Discord** | williamsimas |
 
 ---
 
