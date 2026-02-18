@@ -1,67 +1,92 @@
-<h1 align="center">👋 Olá! Eu sou William Simas</h1>
+<div align="center">
 
-<p align="center">
-Sou um Desenvolvedor Full Stack apaixonado por tecnologia, com foco especializado no desenvolvimento Back-End. <br/>
-Minha trajetória inclui a graduação completa em Análise e Desenvolvimento de Sistemas (ADS), o que me proporcionou uma base sólida para construir soluções robustas e eficientes.
-</p>
+# 👨‍💻 William Simas
 
-<p align="center">
-Tenho experiência prática com diversas tecnologias essenciais no desenvolvimento moderno, incluindo JavaScript, Python e React para o Front-End e interação com o usuário, <br/>
-além de um conhecimento aprofundado em Node.js para o Back-End. Domino a criação e consumo de APIs RESTful e tenho proficiência em bancos de dados relacionais como MySQL, SQL Server e PostgreSQL, garantindo a integridade e performance no gerenciamento de dados.
-</p>
+### Full Stack Developer | React Specialist | Solution Architect
 
-<p align="center">
-Estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades e contribuir em projetos inovadores.
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/williamsimas)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willsimassousa@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/williamsimass)
 
 ---
 
-<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
+## 📋 Sobre Mim
 
-<p align="center">
-  <img alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img alt=".NET Core" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img alt="SQL Server" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img alt="MongoDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="GitHub" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img alt="VS Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</p>
+Sou desenvolvedor Full Stack especializado em **React, Next.js, TypeScript, Tailwind CSS e Vite**, com foco em criar interfaces modernas e performáticas. Combinando sólida formação técnica com experiência prática, entrego soluções escaláveis e código de alta qualidade.
 
 ---
 
-<h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
+## 🛠️ Stack Tecnológico
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=williamsimass&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsimass&layout=compact&langs_count=8&theme=radical"/>
-</p>
+### **Front-End Specialist**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### **Back-End & Runtime**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### **Bancos de Dados**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+### **Ferramentas & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-<h2 align="center">📫 Conecte-se Comigo</h2>
+## 💡 Competências Técnicas
+
+- **Front-End Moderno**: React, Next.js, componentes reutilizáveis, hooks e state management
+- **Estilização Avançada**: Tailwind CSS, responsividade, design systems
+- **TypeScript**: Tipagem forte, interfaces e manutenibilidade de código
+- **Performance**: Otimização com Vite, lazy loading, code splitting
+- **APIs RESTful**: Integração, consumo e desenvolvimento de backends robustos
+- **Full Stack**: Implementação completa de features do front ao back-end
+
+---
+
+## 📊 Estatísticas GitHub
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamsimass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsimass&layout=compact&langs_count=10&theme=tokyonight&border_radius=10"/>
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco oportunidades desafiadoras onde possa contribuir significativamente em projetos impactantes, aplicando minha expertise técnica e paixão por inovação. Sempre em busca de evoluir como desenvolvedor e líder técnico.
+
+---
+
+## 📞 Vamos Conectar?
+
+<div>
+
+| Plataforma | Link |
+|-----------|------|
+| **LinkedIn** | [williamsimas](https://linkedin.com/in/williamsimas) |
+| **Email** | [willsimassousa@gmail.com](mailto:willsimassousa@gmail.com) |
+| **Instagram** | [@william.mss16](https://instagram.com/william.mss16) |
+| **Twitch** | [@willostrange](https://www.twitch.tv/willostrange) |
+| **Discord** | uwillos#2961 |
+
+</div>
+
+---
 
 <p align="center">
-  <a href="https://linkedin.com/in/williamsimas" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:willsimassousa@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://instagram.com/william.mss16" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.twitch.tv/willostrange" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-  <a href="https://discord.gg/uwillos#2961" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
+  <i>Desenvolvendo soluções, criando impacto 🚀</i>
 </p>
+
+</div>
