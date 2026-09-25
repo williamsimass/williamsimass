@@ -6,8 +6,12 @@
 
 **Go • TypeScript • React • Flutter • PostgreSQL • Docker**
 
-Construindo aplicações web, mobile e back-ends com foco em
-arquitetura, APIs, performance e experiência de produto.
+Construindo aplicações web, mobile e back-ends com foco em  
+**arquitetura, APIs, performance, segurança e experiência de produto.**
+
+🇧🇷 **Português nativo** • 🇺🇸 **English: Intermediate Reading & Comprehension**
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/williamsimas)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willsimassousa@gmail.com)
@@ -18,17 +22,11 @@ arquitetura, APIs, performance e experiência de produto.
 
 ## 👋 Sobre mim
 
-Sou Desenvolvedor de Software Full Stack com maior foco em **Back-End**, 
-desenvolvimento de **APIs**, aplicações web e mobile.
+Sou **Desenvolvedor de Software Full Stack**, com maior foco em **Back-End**, desenvolvimento de **APIs**, aplicações web e mobile.
 
-Atualmente trabalho principalmente com **Go, TypeScript, React e Flutter**, 
-utilizando bancos relacionais como **PostgreSQL e MySQL**, além de 
-**Docker e Linux** para desenvolvimento, deploy e operação de aplicações.
+Atualmente trabalho principalmente com **Go, TypeScript, React e Flutter**, utilizando bancos relacionais como **PostgreSQL e MySQL**, além de **Docker e Linux** para desenvolvimento, deploy e operação de aplicações.
 
-Gosto de trabalhar além da implementação de telas: modelagem de dados, 
-autenticação, segurança, regras de negócio, integrações, comunicação em 
-tempo real, containerização e arquitetura de aplicações fazem parte do 
-tipo de problema que gosto de resolver.
+Gosto de trabalhar além da implementação de telas: **modelagem de dados, autenticação, autorização, segurança, regras de negócio, integrações, comunicação em tempo real, containerização e arquitetura de aplicações** fazem parte do tipo de problema que gosto de resolver.
 
 ---
 
@@ -41,9 +39,54 @@ tipo de problema que gosto de resolver.
 - Autenticação, autorização e controle de acesso
 - Integrações entre aplicações e serviços externos
 - Aplicações containerizadas com **Docker**
-- Deploy e configuração de aplicações em ambientes **Linux**
+- Deploy e configuração em ambientes **Linux**
 - Sistemas em tempo real e comunicação orientada a eventos
 - Arquiteturas voltadas à manutenção, segurança e escalabilidade
+
+---
+
+# ⭐ Projetos em destaque
+
+## 🛡️ SentinelGo
+
+**Plataforma de monitoramento e remediação de dispositivos para ambientes MSP.**
+
+`Go` `PostgreSQL` `React` `TypeScript` `Docker` `gRPC` `REST` `SSE`
+
+### Principais pontos técnicos
+
+- Arquitetura **multi-tenant**
+- API REST e comunicação via **gRPC**
+- Atualizações em tempo real utilizando **SSE**
+- Agentes para **Windows e Linux**
+- Autenticação e controle de acesso com **RBAC**
+- Auditoria de operações
+- Enrollment de dispositivos com proteção contra replay
+- Webhooks assinados com HMAC
+- Remediação controlada de dispositivos
+- PostgreSQL como banco principal
+- Deploy containerizado com Docker
+- Nginx + TLS em ambiente Linux
+
+> Projeto desenvolvido com foco em segurança, confiabilidade, observabilidade e operação remota de dispositivos.
+
+---
+
+## 💰 Findash
+
+**Aplicação mobile para organização e acompanhamento financeiro.**
+
+`Flutter` `Dart` `Mobile` `APIs`
+
+### Destaques
+
+- Aplicação Android desenvolvida em **Flutter**
+- Organização e acompanhamento financeiro
+- Arquitetura preparada para evolução de funcionalidades
+- Consumo e integração com APIs
+- Persistência e gerenciamento de dados
+- Experiência mobile focada em simplicidade
+- Projeto preparado para futuras integrações financeiras e automações
 
 ---
 
@@ -69,7 +112,7 @@ tipo de problema que gosto de resolver.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Dados
+### Bancos de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -81,90 +124,32 @@ tipo de problema que gosto de resolver.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-# ⭐ Projetos em destaque
-
-## 🛡️ SentinelGo
-
-**Plataforma de monitoramento e remediação de dispositivos para ambientes MSP.**
-
-`Go` `PostgreSQL` `React` `TypeScript` `Docker` `gRPC` `REST` `SSE`
-
-Principais pontos técnicos:
-
-- Arquitetura multi-tenant
-- API REST e comunicação via gRPC
-- Atualizações em tempo real utilizando SSE
-- Agentes para Windows e Linux
-- Autenticação e RBAC
-- Auditoria de operações
-- Enrollment de dispositivos com proteção contra replay
-- Webhooks assinados
-- Remediação controlada de dispositivos
-- PostgreSQL como banco principal
-- Deploy containerizado com Docker
-- Nginx e TLS em ambiente Linux
-
-> Projeto desenvolvido com forte foco em segurança, observabilidade,
-> confiabilidade e operação de dispositivos remotos.
-
----
-
-## 💰 Findash
-
-**Aplicação mobile para organização e acompanhamento financeiro.**
-
-`Flutter` `Dart` `Mobile` `APIs`
-
-- Aplicação publicada para Android
-- Interface mobile desenvolvida em Flutter
-- Organização e acompanhamento financeiro
-- Arquitetura preparada para novas integrações
-- Evolução planejada para recursos financeiros e automações
-
----
-
-## 📱 Aplicações Mobile
-
-Também desenvolvo aplicações utilizando **Flutter/Dart** com foco em:
-
-- arquitetura organizada
-- componentes reutilizáveis
-- consumo de APIs
-- armazenamento local
-- autenticação
-- gerenciamento de estado
-- responsividade
-- publicação Android
 
 ---
 
 ## 🧠 Engenharia & Arquitetura
 
-Além das tecnologias, procuro aplicar conceitos que tornam aplicações
-mais fáceis de evoluir e manter:
-
 ```text
-API Design
-├── REST
-├── gRPC
-├── Authentication
-├── Authorization / RBAC
-└── Webhooks
-
 Backend
 ├── Go
 ├── Node.js
+├── REST APIs
+├── gRPC
+├── Authentication
+├── Authorization / RBAC
+├── Webhooks
+└── Business Rules
+
+Data
 ├── PostgreSQL
-├── Business Rules
-└── Background Processing
+├── MySQL
+├── SQLite
+└── Data Modeling
 
 Frontend
 ├── React
 ├── TypeScript
+├── Next.js
 ├── Component Architecture
 └── State Management
 
@@ -172,45 +157,57 @@ Mobile
 ├── Flutter
 ├── Dart
 ├── API Integration
-└── Local Storage
+├── Local Storage
+└── Responsive Interfaces
 
 Infrastructure
 ├── Docker
 ├── Linux
 ├── Nginx
 ├── TLS
-└── Git/GitHub
+├── Git
+└── CI/CD
 ```
 
 ---
 
-## 📈 Atualmente evoluindo em
+## 🔐 Princípios que valorizo
+
+- Código legível e manutenível
+- Separação de responsabilidades
+- Segurança desde a arquitetura
+- APIs previsíveis e bem estruturadas
+- Modelagem consistente de dados
+- Logs e rastreabilidade
+- Testabilidade
+- Automação de deploy
+- Evolução incremental de sistemas
+- Decisões técnicas baseadas no problema
+
+---
+
+## 📚 Atualmente evoluindo em
 
 - Arquitetura de aplicações em **Go**
+- Concorrência e performance em Go
 - Sistemas distribuídos
 - APIs de alta performance
 - Flutter e arquitetura mobile
 - PostgreSQL
 - Docker e ambientes Linux
-- Observabilidade e segurança de aplicações
-
----
-
-## 🌎 Idiomas
-
-🇧🇷 **Português:** Nativo  
-🇺🇸 **Inglês:** Leitura e interpretação intermediárias
+- Observabilidade
+- Segurança de aplicações
+- CI/CD e automação de deploy
 
 ---
 
 <div align="center">
 
-### 🤝 Vamos conversar?
+## 🤝 Vamos conversar?
 
-Estou aberto a oportunidades em desenvolvimento de software,
-principalmente em **Back-End, Full Stack e Mobile**.
+Aberto a oportunidades em **Back-End, Full Stack e Mobile**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-William_Simas-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/williamsimas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-William_Simas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/williamsimas)
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willsimassousa@gmail.com)
 
 </div>
