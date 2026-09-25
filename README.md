@@ -6,7 +6,7 @@
 
 **Go • TypeScript • React • Flutter • PostgreSQL • Docker**
 
-Construindo aplicações web, mobile e back-ends com foco em  
+Construindo aplicações **web, mobile e back-end** com foco em  
 **arquitetura, APIs, performance, segurança e experiência de produto.**
 
 🇧🇷 **Português nativo** • 🇺🇸 **English: Intermediate Reading & Comprehension**
@@ -24,9 +24,11 @@ Construindo aplicações web, mobile e back-ends com foco em
 
 Sou **Desenvolvedor de Software Full Stack**, com maior foco em **Back-End**, desenvolvimento de **APIs**, aplicações web e mobile.
 
-Atualmente trabalho principalmente com **Go, TypeScript, React e Flutter**, utilizando bancos relacionais como **PostgreSQL e MySQL**, além de **Docker e Linux** para desenvolvimento, deploy e operação de aplicações.
+Atualmente trabalho principalmente com **Go, TypeScript, React e Flutter**, utilizando bancos relacionais como **PostgreSQL e MySQL**, além de **Docker e Linux** no desenvolvimento, deploy e operação de aplicações.
 
-Gosto de trabalhar além da implementação de telas: **modelagem de dados, autenticação, autorização, segurança, regras de negócio, integrações, comunicação em tempo real, containerização e arquitetura de aplicações** fazem parte do tipo de problema que gosto de resolver.
+Gosto de atuar além da implementação de interfaces. Tenho interesse especial em **modelagem de dados, autenticação, autorização, segurança, regras de negócio, integrações, comunicação em tempo real, containerização e arquitetura de aplicações**.
+
+Meu objetivo é construir software que não apenas funcione, mas que seja **organizado, seguro, manutenível e preparado para evoluir**.
 
 ---
 
@@ -37,11 +39,13 @@ Gosto de trabalhar além da implementação de telas: **modelagem de dados, aute
 - Aplicações mobile multiplataforma com **Flutter e Dart**
 - Sistemas integrados com **PostgreSQL, MySQL e SQLite**
 - Autenticação, autorização e controle de acesso
-- Integrações entre aplicações e serviços externos
+- Arquiteturas multi-tenant
+- Integrações entre sistemas e serviços externos
+- Comunicação em tempo real
+- Webhooks e integrações orientadas a eventos
 - Aplicações containerizadas com **Docker**
-- Deploy e configuração em ambientes **Linux**
-- Sistemas em tempo real e comunicação orientada a eventos
-- Arquiteturas voltadas à manutenção, segurança e escalabilidade
+- Deploy e configuração de aplicações em ambientes **Linux**
+- Soluções voltadas à segurança, manutenção e escalabilidade
 
 ---
 
@@ -53,40 +57,48 @@ Gosto de trabalhar além da implementação de telas: **modelagem de dados, aute
 
 `Go` `PostgreSQL` `React` `TypeScript` `Docker` `gRPC` `REST` `SSE`
 
+O SentinelGo foi desenvolvido para monitoramento, diagnóstico e execução controlada de ações em dispositivos **Windows e Linux**, com foco em segurança, rastreabilidade e operação remota.
+
 ### Principais pontos técnicos
 
+- Backend desenvolvido em **Go**
 - Arquitetura **multi-tenant**
-- API REST e comunicação via **gRPC**
-- Atualizações em tempo real utilizando **SSE**
+- API REST
+- Comunicação utilizando **gRPC**
+- Atualizações em tempo real com **Server-Sent Events**
 - Agentes para **Windows e Linux**
-- Autenticação e controle de acesso com **RBAC**
+- Autenticação e autorização
+- Controle de acesso utilizando **RBAC**
 - Auditoria de operações
-- Enrollment de dispositivos com proteção contra replay
-- Webhooks assinados com HMAC
+- Enrollment de dispositivos com expiração
+- Proteção contra replay
+- Webhooks assinados com **HMAC**
 - Remediação controlada de dispositivos
-- PostgreSQL como banco principal
-- Deploy containerizado com Docker
-- Nginx + TLS em ambiente Linux
+- Kill switch para operações
+- PostgreSQL como banco de dados principal
+- Containerização utilizando Docker
+- Nginx e TLS em ambiente Linux
 
-> Projeto desenvolvido com foco em segurança, confiabilidade, observabilidade e operação remota de dispositivos.
+> Projeto desenvolvido com foco em **segurança, confiabilidade, observabilidade e operação de dispositivos remotos**.
 
 ---
 
 ## 💰 Findash
 
-**Aplicação mobile para organização e acompanhamento financeiro.**
+**Aplicação mobile focada em organização e acompanhamento financeiro.**
 
 `Flutter` `Dart` `Mobile` `APIs`
 
-### Destaques
+### Principais pontos
 
-- Aplicação Android desenvolvida em **Flutter**
+- Aplicação desenvolvida utilizando **Flutter e Dart**
+- Interface mobile moderna e responsiva
 - Organização e acompanhamento financeiro
-- Arquitetura preparada para evolução de funcionalidades
-- Consumo e integração com APIs
+- Integração com serviços e APIs
 - Persistência e gerenciamento de dados
-- Experiência mobile focada em simplicidade
-- Projeto preparado para futuras integrações financeiras e automações
+- Estrutura preparada para evolução de funcionalidades
+- Arquitetura preparada para futuras integrações financeiras
+- Foco em experiência simples e acessível ao usuário
 
 ---
 
@@ -104,8 +116,9 @@ Gosto de trabalhar além da implementação de telas: **modelagem de dados, aute
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Mobile
 
@@ -138,13 +151,15 @@ Backend
 ├── Authentication
 ├── Authorization / RBAC
 ├── Webhooks
+├── SSE
 └── Business Rules
 
 Data
 ├── PostgreSQL
 ├── MySQL
 ├── SQLite
-└── Data Modeling
+├── Data Modeling
+└── Multi-tenant Architecture
 
 Frontend
 ├── React
@@ -166,38 +181,58 @@ Infrastructure
 ├── Nginx
 ├── TLS
 ├── Git
-└── CI/CD
+└── Application Deployment
 ```
 
 ---
 
-## 🔐 Princípios que valorizo
+## 🔐 Princípios de engenharia que valorizo
 
 - Código legível e manutenível
 - Separação de responsabilidades
 - Segurança desde a arquitetura
 - APIs previsíveis e bem estruturadas
 - Modelagem consistente de dados
+- Autenticação e autorização adequadas
 - Logs e rastreabilidade
 - Testabilidade
-- Automação de deploy
+- Containerização
+- Automação de processos
 - Evolução incremental de sistemas
 - Decisões técnicas baseadas no problema
 
 ---
 
-## 📚 Atualmente evoluindo em
+## 📚 Atualmente aprofundando
 
 - Arquitetura de aplicações em **Go**
-- Concorrência e performance em Go
+- Concorrência em Go
+- Performance de APIs
 - Sistemas distribuídos
-- APIs de alta performance
+- Comunicação entre serviços
 - Flutter e arquitetura mobile
 - PostgreSQL
-- Docker e ambientes Linux
+- Docker
+- Linux
 - Observabilidade
 - Segurança de aplicações
-- CI/CD e automação de deploy
+- Arquiteturas escaláveis
+
+---
+
+## 💡 Áreas de interesse
+
+```text
+Backend Development
+Full Stack Development
+Mobile Development
+APIs & Integrations
+SaaS
+Developer Tools
+Infrastructure
+Automation
+Distributed Systems
+```
 
 ---
 
@@ -205,9 +240,17 @@ Infrastructure
 
 ## 🤝 Vamos conversar?
 
-Aberto a oportunidades em **Back-End, Full Stack e Mobile**.
+Aberto a oportunidades em:
+
+**Back-End • Full Stack • Software Development • Mobile**
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-William_Simas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/williamsimas)
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willsimassousa@gmail.com)
+
+<br><br>
+
+**Construindo software. Resolvendo problemas. Evoluindo sempre. 🚀**
 
 </div>
